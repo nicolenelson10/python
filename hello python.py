@@ -1,4 +1,8 @@
-print("hello python")
+'''
+Author:nicole
+date:01-10-2024
+python program to get students details
+'''
 name=input("enter the student name:")
 roll_no=int(input("enter the roll no:"))
 cgpa=float(input("enter your cgpa:"))
